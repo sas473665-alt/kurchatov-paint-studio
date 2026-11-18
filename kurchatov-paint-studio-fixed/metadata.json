@@ -1,0 +1,6 @@
+{
+  "name": "Kurchatov Paint Studio — Покраска авто под ключ в г. Курчатов",
+  "description": "Студия кузовного ремонта и покраски автомобилей под ключ от 50 000 ₸ в г. Курчатов (Казахстан). Примеры До и После, компьютерный подбор краски и онлайн-запись в WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
